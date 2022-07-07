@@ -1,5 +1,8 @@
-# dvc-project-template
-DVC project template
+# Pytorch Basics
+Pytorch basics and Course from oneNeuron
+
+* ## This repository contains introduction to pytorch.
+* ## [click here](https://udayzee05.github.io/Pytorch-basics/) Refer the documentation associated with this repository
 
 ## STEPS -
 
