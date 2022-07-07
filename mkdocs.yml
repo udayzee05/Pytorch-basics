@@ -3,6 +3,8 @@ site_name: Pytorch Basics
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - Installation: docs\Section_001_Pytorch_introduction.md
+  - Tensor & Operations: docs\Section_002_Pytorch_Tensors_and_operations.md
 
 site_author: Uday Zope
 site_description: >-
@@ -70,4 +72,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/udayzee05"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/udayzee05"  target="_blank" rel="noopener">Uday Zope</a>
