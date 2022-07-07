@@ -1,4 +1,4 @@
-# dvc-project-template
+#Pytorch Basic
 DVC project template
 
 ## STEPS -
